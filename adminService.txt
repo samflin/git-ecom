@@ -2,5 +2,4 @@ add and creating a user
 change the role
 
 doing the admin work
-...
-connecting to database amar's database
+connecting to database : amar's database
